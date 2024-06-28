@@ -51,7 +51,7 @@ sections:
         title: Máster en Com. Política
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/master comu politica.png
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
