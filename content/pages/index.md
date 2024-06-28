@@ -60,10 +60,11 @@ sections:
           url: /images/master comu politica.png
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Un [máster comunicación política y
+          empresarial](https://iddigitalschool.com/masteres-oficiales/) es un
+          programa de posgrado que forma profesionales en estrategias de
+          comunicación y campañas electorales, combinando teoría política y
+          técnicas de marketing para influir en la opinión pública.
         actions:
           - type: Button
             label: ''
