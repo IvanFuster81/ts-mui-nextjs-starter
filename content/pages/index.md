@@ -30,7 +30,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Máster en People Analytics
+            label: ''
             url: 'https://iddigitalschool.com/master-people-analytics/'
             size: medium
       - type: Card
