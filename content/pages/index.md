@@ -30,7 +30,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Máster
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Máster en Marketing Digital
