@@ -31,7 +31,7 @@ sections:
         actions:
           - type: Button
             label: Máster en People Analytics
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://iddigitalschool.com/master-people-analytics/'
       - type: Card
         title: Máster en Marketing Digital
         image:
