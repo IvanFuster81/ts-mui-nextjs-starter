@@ -23,11 +23,16 @@ sections:
           type: Image
           url: /images/master en people analytics.png
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          [People
+          analytics](https://iddigitalschool.com/people-analytics-que-es-y-cuales-son-sus-beneficios-en-rrhh/)
+          es el uso de datos y análisis para gestionar y optimizar el desempeño
+          y la experiencia de los empleados dentro de una organización. Esta
+          disciplina ayuda a tomar decisiones informadas sobre recursos humanos,
+          mejorando la eficiencia y satisfacción en el lugar de trabajo.
+
+
+
         actions:
           - type: Button
             label: ''
