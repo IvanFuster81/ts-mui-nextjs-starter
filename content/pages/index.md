@@ -44,11 +44,14 @@ sections:
           type: Image
           url: /images/master en marketing digital.png
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          Un [máster marketing
+          digital](https://iddigitalschool.com/master-oficial-marketing-digital-comunicacion-y-redes-sociales/)
+          es un programa de posgrado que capacita a los estudiantes en
+          estrategias y herramientas digitales para promover productos y
+          servicios en línea. Suele abarcar áreas como SEO, SEM, redes sociales,
+          análisis de datos y marketing de contenidos.
+
         actions:
           - type: Button
             label: ''
