@@ -36,7 +36,7 @@ sections:
         title: Máster en Marketing Digital
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/master en marketing digital.png
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
