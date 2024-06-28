@@ -6,9 +6,8 @@ sections:
     title: ''
     subtitle: Educación y Formación
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Te mostramos algunos de los estudios más demandados en la actualidad y con
+      más salidas laborales. 
     actions:
       - type: Button
         label: Start Building
