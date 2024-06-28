@@ -21,7 +21,7 @@ sections:
         title: Máster en People Analytics
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/master en people analytics.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
