@@ -15,7 +15,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Estudios
-    subtitle: Section subtitle here
+    subtitle: Estudios más demandados en la actualidad
     items:
       - type: Card
         title: First Card Title
