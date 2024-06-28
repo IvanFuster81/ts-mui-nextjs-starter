@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "BLOG DE EDUCACIÓN",
+        "title": "EDUCACIÓN Y FORMACIÓN",
         "navLinks": [
             {
                 "type": "Link",
