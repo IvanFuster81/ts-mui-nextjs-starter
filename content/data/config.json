@@ -29,7 +29,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "",
                 "underline": "hover",
                 "url": ""
             }
