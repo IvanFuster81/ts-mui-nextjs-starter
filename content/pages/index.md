@@ -31,7 +31,7 @@ sections:
         actions:
           - type: Button
             label: ''
-            url: 'https://iddigitalschool.com/master-people-analytics/'
+            url: ''
             size: medium
       - type: Card
         title: Máster en Marketing Digital
