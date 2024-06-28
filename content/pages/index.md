@@ -8,13 +8,7 @@ sections:
     text: >
       Te mostramos algunos de los estudios más demandados en la actualidad y con
       más salidas laborales. 
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/estudios.png
