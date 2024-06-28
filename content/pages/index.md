@@ -14,7 +14,7 @@ sections:
       url: /images/estudios.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Estudios
     subtitle: Section subtitle here
     items:
       - type: Card
