@@ -18,7 +18,7 @@ sections:
     subtitle: Estudios más demandados en la actualidad
     items:
       - type: Card
-        title: First Card Title
+        title: Máster en People Analytics
         image:
           type: Image
           url: /images/nextjs.svg
